@@ -1,0 +1,4 @@
+po_number,region,supplier_id,material_code,ordered_qty,unit_price_usd,order_date
+PO1001,NORTH,SUP101,MAT101,10,25.50,2024-01-01
+PO1002,NORTH,SUP102,MAT102,20,12.00,2024-01-02
+PO1003,NORTH,SUP103,MAT103,5,100.00,2024-01-03
